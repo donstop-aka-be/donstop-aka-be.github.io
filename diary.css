@@ -87,3 +87,13 @@
   text-decoration: none;
   font-size: 18px;
 }
+.grid-floor {
+  z-index: 0;
+}
+
+.blog-container,
+.vapor-title,
+.floating-text {
+  position: relative;
+  z-index: 1;
+}
