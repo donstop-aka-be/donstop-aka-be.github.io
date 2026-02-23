@@ -53,5 +53,11 @@ button {
   width: 20%;
   max-width: 300px;
 }
+.diary-title {
+  margin-top: 10px;
+  font-size: 22px;
+  color: yellow;
+  text-shadow: 0 0 5px hotpink;
+}
 
 
