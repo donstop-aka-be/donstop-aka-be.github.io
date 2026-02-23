@@ -45,11 +45,13 @@ button {
 }
 /* 日記リンクを下の方に配置 */
 .diary-link {
-  margin-top: 150px;  /* 上との間隔をあける */
+  margin-top: 300px;  /* 上との間隔をあける */
   text-align: center;
 }
 
 .diary-link img {
-  width: 180px;      /* 画像サイズ調整 */
+  width: 20%;
+  max-width: 300px;
 }
+
 
